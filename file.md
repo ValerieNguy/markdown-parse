@@ -1,4 +1,4 @@
-Parentheses in the link
+Parentheses in link
 [a link!](https://something().com)
 
 
