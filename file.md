@@ -1,4 +1,4 @@
-Parentheses in link
-[a link!](https://something().com)
+File with no link
+[a link!]()
 
 
